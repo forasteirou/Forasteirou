@@ -1,6 +1,29 @@
 ### Olá, sou Kaique Reis 👋
 
 - 🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.
+#
+• Suporte técnico (atendimento, tratativa de chamados);
+• Formatação e instalação de equipamentos;
+• Suporte de atendimento remoto;
+• Conhecimento em Rede (cabeamento estruturado, Switchs, Roteadores).
+• Criação de relatórios técnicos.
+• Conhecimento básico em Linux.
+• Conhecimento em Segurança da Informação.
+• Conhecimento em Governança de TI.
+• Conhecimentos em Cloud Computing.
+• Ciência de Dados.
+• Conhecimento em Pacote Office.
+• Sistemas Embarcados.
+• Desenvolvedor.
+
+OBJETIVO:
+
+Trabalhar no desenvolvimento de produtos, aplicações e serviços em
+qualquer área da informática e da tecnologia da informação, atendendo
+a demanda de indústrias, empresas, grupos financeiros, centros de
+pesquisa e desenvolvimento, universidades, estabelecimentos de
+ensino e do setor de serviços públicos.
+
 
 <div align="center">
   <a href="https://github.com/forasteirou">
