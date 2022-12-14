@@ -2,19 +2,23 @@
 
 - 🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.
 #
-• Suporte técnico (atendimento, tratativa de chamados);
+• Conhecimento em Segurança da Informação;
+• Conhecimento em Cloud Computing;
+• Conhecimentos básicos Machine Learning;
+• Conhecimento em Pacote Office (Word, Excel, PowerPoint, etc);
+• Conhecimento em boas práticas de desenvolvimento;
+• Conhecimento em Bancos de Dados (Relacionais: Oracle e SQL Server);
+• Controles de versionamento: Git e VScode;
+• Conhecimento em Bootstrap;
+• Conhecimento em frameworks front-end: HTML, CSS, React e Java;
+• Conhecimento em frameworks back-end: Python, Django, ASP .NET Core, JavaScript, C#, C, C++;
+• Metodologias Scrum e Canvas; 
 • Formatação e instalação de equipamentos;
-• Suporte de atendimento remoto;
-• Conhecimento em Rede (cabeamento estruturado, Switchs, Roteadores).
-• Criação de relatórios técnicos.
-• Conhecimento básico em Linux.
-• Conhecimento em Segurança da Informação.
-• Conhecimento em Governança de TI.
-• Conhecimentos em Cloud Computing.
-• Ciência de Dados.
-• Conhecimento em Pacote Office.
-• Sistemas Embarcados.
-• Desenvolvedor.
+• Conhecimento em Rede (cabeamento estruturado, Switchs, Roteadores);
+• Criação de relatórios técnicos;
+• Introdução AWS (S3, SQS, ECS);
+ 
+Perfil crítico, analítico, senso de urgência, organizado, comunicativo, colaborativo, flexível e resiliente.
 
 OBJETIVO:
 
