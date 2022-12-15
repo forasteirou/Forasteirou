@@ -2,14 +2,19 @@
  
  ###
  
-- 🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.</div>
+ 🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.</div>
 
  #
 • Conhecimento em Segurança da Informação;
+
 • Conhecimento em Cloud Computing;
+
 • Conhecimentos básicos Machine Learning;
+
 • Conhecimento em Pacote Office (Word, Excel, PowerPoint, etc);
+
 • Conhecimento em boas práticas de desenvolvimento;
+
 • Conhecimento em Bancos de Dados (Relacionais: Oracle e SQL Server);
 • Controles de versionamento: Git e VScode;
 • Conhecimento em Bootstrap;
