@@ -35,7 +35,7 @@ ensino e do setor de serviços públicos.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forasteirou&layout=compact&langs_count=7&theme=dark&include"/>
 </div>
 
-
+#
 
 <div> 
  
