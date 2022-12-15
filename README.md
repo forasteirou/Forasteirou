@@ -1,7 +1,7 @@
-###<div align="center"> Olá, sou Kaique Reis 👋
+<div align="center"> ### Olá, sou Kaique Reis 👋
  <div>
 
-- 🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.
+ 🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.
 #
 • Conhecimento em Segurança da Informação;
 • Conhecimento em Cloud Computing;
