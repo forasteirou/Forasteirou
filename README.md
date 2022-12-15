@@ -1,4 +1,5 @@
-### Olá, sou Kaique Reis 👋
+<div align="center">### Olá, sou Kaique Reis 👋
+ <div>
 
 - 🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.
 #
