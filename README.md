@@ -23,9 +23,9 @@
 
 • Conhecimento em frameworks front-end: HTML, CSS, React e Java;
 
-• Conhecimento em frameworks back-end: Python, Django, ASP .NET Core, JavaScript, C#, C, C++;
+• Conhecimento em frameworks back-end: Python, Django, ASP .NET Core, JavaScript;
 
-• Metodologias Scrum e Canvas; 
+• Metodologias Scrum e Kanban; 
 
 • Formatação e instalação de equipamentos;
 
