@@ -5,35 +5,15 @@
  🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.</div>
 
  #
-• Conhecimento em Segurança da Informação;
-
-• Conhecimento em Cloud Computing;
-
-• Conhecimentos básicos Machine Learning;
-
-• Conhecimento em Pacote Office (Word, Excel, PowerPoint, etc);
-
-• Conhecimento em boas práticas de desenvolvimento;
-
-• Conhecimento em Bancos de Dados: SQL e SQL Server;
-
-• Controles de versionamento: Git e VScode;
-
-• Conhecimento em Bootstrap;
-
-• Conhecimento em frameworks front-end: HTML, CSS, React e Java;
-
-• Conhecimento em frameworks back-end: Python, Django, ASP .NET Core, JavaScript;
-
-• Metodologias Scrum e Kanban; 
-
-• Formatação e instalação de equipamentos;
-
-• Conhecimento em Rede (cabeamento estruturado, Switchs, Roteadores);
-
-• Criação de relatórios técnicos;
-
-• Introdução AWS (S3, SQS, ECS);
+- Análise de Dados;
+- Front-end: HTML, CSS e JavaScript;
+- Back-end: Python, Java, PHP e C#;
+- Pacote Office (Word, Excel, PowerPoint, etc);
+- SQL e SQL Server;
+- Machine Learning
+- Redes (cabeamento estruturado, Switchs, Roteadores);
+- Introdução AWS
+- Inglês (básico á intermediário)
  
 Perfil crítico, analítico, senso de urgência, organizado, comunicativo, colaborativo, flexível e resiliente.
 
