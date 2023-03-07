@@ -6,10 +6,10 @@
 
  #
 - Análise de Dados;
-- Front-end: HTML, CSS e JavaScript;
-- Back-end: Python, Java, PHP e C#;
-- Pacote Office (Word, Excel, PowerPoint, etc);
 - SQL e MySQL;
+- Back-end: Python, Java, PHP e C#;
+- Front-end: HTML, CSS e JavaScript;
+- Pacote Office (Word, Excel, PowerPoint, etc);
 - Redes (cabeamento estruturado, Switchs, Roteadores);
 - Introdução AWS
 - Inglês (básico á intermediário)
