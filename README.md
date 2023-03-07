@@ -9,8 +9,7 @@
 - Front-end: HTML, CSS e JavaScript;
 - Back-end: Python, Java, PHP e C#;
 - Pacote Office (Word, Excel, PowerPoint, etc);
-- SQL e SQL Server;
-- Machine Learning
+- SQL e MySQL;
 - Redes (cabeamento estruturado, Switchs, Roteadores);
 - Introdução AWS
 - Inglês (básico á intermediário)
