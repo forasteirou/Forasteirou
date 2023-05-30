@@ -5,25 +5,21 @@
  🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.</div>
 
  #
-- Análise de Dados;
-- SQL e MySQL;
-- Back-end: Python, Java, PHP e C#;
-- Front-end: HTML, CSS e JavaScript;
-- Pacote Office (Word, Excel, PowerPoint, etc);
-- Redes (cabeamento estruturado, Switchs, Roteadores);
-- Introdução AWS
-- Inglês (básico á intermediário)
+Busco oportunidades na área de tecnologia, com foco em análise de dados e desenvolvimento de software.
+
+Habilidades:
+
+● Análise de Dados;
+● Análise de Sistemas;
+● SQL e NoSQL (MySQL e MongoDB);
+● Back-end: Python, Java, PHP e C#;
+● Front-end: HTML, CSS e JavaScript;
+● Machine Learning;
+● Redes (cabeamento estruturado, Switchs, Roteadores);
+● Introdução AWS;
+● Pacote Office (Word, Excel, PowerPoint, etc);
  
-Perfil crítico, analítico, senso de urgência, organizado, comunicativo, colaborativo, flexível e resiliente.
-
-OBJETIVO:
-
-Trabalhar no desenvolvimento de produtos, aplicações e serviços em
-qualquer área da informática e da tecnologia da informação, atendendo
-a demanda de indústrias, empresas, grupos financeiros, centros de
-pesquisa e desenvolvimento, universidades, estabelecimentos de
-ensino e do setor de serviços públicos.
-
+Perfil crítico, analítico, aprendizado contínuo, organizado, comunicativo, colaborativo, flexível e resiliente.
 
 <div align="center">
   <a href="https://github.com/forasteirou">
