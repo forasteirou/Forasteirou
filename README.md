@@ -14,11 +14,17 @@ Habilidades:
 ● Análise de Sistemas;
 
 ● SQL e NoSQL (MySQL e MongoDB);
+
 ● Back-end: Python, Java, PHP e C#;
+
 ● Front-end: HTML, CSS e JavaScript;
+
 ● Machine Learning;
+
 ● Redes (cabeamento estruturado, Switchs, Roteadores);
+
 ● Introdução AWS;
+
 ● Pacote Office (Word, Excel, PowerPoint, etc);
  
 Perfil crítico, analítico, aprendizado contínuo, organizado, comunicativo, colaborativo, flexível e resiliente.
