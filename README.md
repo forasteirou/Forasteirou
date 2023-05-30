@@ -10,7 +10,9 @@ Busco oportunidades na área de tecnologia, com foco em análise de dados e dese
 Habilidades:
 
 ● Análise de Dados;
+
 ● Análise de Sistemas;
+
 ● SQL e NoSQL (MySQL e MongoDB);
 ● Back-end: Python, Java, PHP e C#;
 ● Front-end: HTML, CSS e JavaScript;
