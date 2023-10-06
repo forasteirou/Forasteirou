@@ -5,28 +5,5 @@
  🔭 Estudante de Engenharia da Computação, e apaixonado por tecnologia.</div>
 
  #
-Busco oportunidades na área de tecnologia, com foco em análise de dados e desenvolvimento de software.
-
-Habilidades:
-
-● Análise de Dados;
-
-● Análise de Sistemas;
-
-● SQL e NoSQL;
-
-● Back-end: Python, Java e C#;
-
-● Front-end: HTML, CSS e JavaScript;
-
-● Machine Learning;
-
-● Redes (cabeamento estruturado, Switchs, Roteadores);
-
-● Introdução AWS;
-
-● Pacote Office (Word, Excel, PowerPoint, etc);
- 
-Perfil crítico, analítico, aprendizado contínuo, organizado, comunicativo, colaborativo, flexível e resiliente.
-
+Como estudante do 6º semestre de Engenharia da Computação, desejo aplicar meus conhecimentos acadêmicos em projetos reais, adquirir experiência prática e desenvolver habilidades relevantes para minha futura carreira. Estou ansioso para contribuir em equipes dinâmicas, aprender com profissionais experientes e expandir minha base de conhecimento técnico.
 
